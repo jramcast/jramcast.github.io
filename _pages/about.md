@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Jaime Ramirez home on the web!
+This is Jaime Ramirez home on the web!. **Work in progress...**
 
-Lorem ipsum...
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jaimeramirezcastillo/).
