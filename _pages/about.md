@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Jaime Ramirez home on the web!. **Work in progress...**
+This is Jaime Ramirez home on the web!. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jaimeramirezcastillo/).
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jaimeramirezcastillo/).
+Check out the [Music Genre Classification Demo](https://jramcast.github.io/mgr-app/).

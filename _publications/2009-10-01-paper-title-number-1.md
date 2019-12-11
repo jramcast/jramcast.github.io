@@ -13,4 +13,6 @@ Music genre classification is one of the sub-disciplines of music information re
 
 [Download paper here](https://link.springer.com/article/10.1007/s10844-019-00582-9)
 
+[Music Genre Classification Demo](https://jramcast.github.io/mgr-app/).
+
 Recommended citation: Ramírez, Jaime and Flores, M. Julia. &quot;Machine learning for music genre: multifaceted review and experimentation with audioset.&quot;. <i>Journal of Intelligent Information Systems (2019)</i>. https://doi.org/10.1007/s10844-019-00582-9.
